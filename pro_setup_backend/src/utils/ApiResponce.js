@@ -6,3 +6,5 @@ class Apiresponce {
         this.success = success < 400
     }
 }
+
+export {Apiresponce}

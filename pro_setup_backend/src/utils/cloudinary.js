@@ -26,3 +26,5 @@ const uploadOnCloudinery = async (localFilePath) =>{
         
     }
 }
+
+export {uploadOnCloudinery}
